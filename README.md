@@ -15,7 +15,7 @@ The [dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-s
 
 ### Data Analysis Process:
 
-1. Data Cleaning: The csv dataset was largely unclean and cleaning it for analysis took the significant portion of the entire time of the analysis. This includes correcting errors in the query, formatting dates, removing obviously irrelevant inputs (such as shows released in 2024), removing duplicate entries, and re-entering inputs in wrong columns. Another important part of the cleaning process was unifying the inconsistent rating system. I decided to go with the TV Parental Guidelines Monitoring Board's guidelines.
+1. Data Cleaning: The csv dataset was largely unclean and cleaning it for analysis took the significant portion of the entire time of the analysis. This include correcting errors & formatting dates using power query, removing obviously irrelevant inputs (such as shows released in 2024), removing duplicate entries, and re-entering inputs in wrong columns. Another important part of the cleaning process was unifying the inconsistent rating system. I decided to go with the TV Parental Guidelines Monitoring Board's guidelines.
 
 2. Exploratory Data Analysis (EDA): Initial exploratory analysis was conducted to understand the distribution and characteristics of the data. I used the pivot table to explore the rows, columns, and easily identify unique inputs.
 
