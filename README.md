@@ -27,7 +27,7 @@ The dataset for this analysis was collected from a publicly available source, Ka
 
 ### Overview of Analysis Results:
 
-![](https://github.com/POsebi/padeniran_portfolio/blob/main/neflix_image.png)
+![](/neflix_image.png)
 
 ### Conclusion:
 Through this data analysis project, I was able to conclude that in 2021, Netflix added movies two-times more than TV shows to its platform. It was interesting to note that, since Netflix is well-known for its popular TV shows such as 'Stranger Things', 'Orange Is the New Black', etc. Also, the original release dates of Netflix's content in 2021 spanned 96 years, earliest in 1925, showing the platform's content diversity. A significant portion on Netflix's content were meant for mature audiences and, over half for persons older than 14 only. This is understandable, considering the bulk of the platform's customers are expected to be old enough to work and earn, to pay the monthly subscriptions.
