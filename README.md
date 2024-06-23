@@ -11,7 +11,7 @@ The primary objective of this data analysis project is to gain insights into Net
 
 ### Data Collection:
 
-The dataset for this analysis was collected from a publicly available source, Kaggle.
+The [dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows) for this analysis was collected from a publicly available source, Kaggle.
 
 ### Data Analysis Process:
 
