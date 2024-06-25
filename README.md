@@ -104,10 +104,13 @@ Summary was finally exported for further analysis in Tableau
 ![](cyclistic_tableau.png)
 
 ### Interpretation & Conclusion:
-In this data analysis case study, I was able to conclude that overall ride length dropped significantly in 2021 from 2020, and has steadily declined since then till 2023. While the decline is seen in both member types, it is more evident in casual members.etc. 
+In this data analysis case study, I was able to conclude that overall ride length dropped significantly in 2021 from 2020, and has steadily declined since then till 2023. While the decline in ride length is seen in both member types, it is more evident in casual members.etc. Interesting, the number of rides have grown for both member types in the same period, 59% in 2021 and up to 62% in 2023. Between 2021 and 2023, ridelengths tend to peak in the weekends for casual riders and stay relatively constant for member riders. From the data, it can also be concluded that member riders make more but shorter trips than casual riders.               
 
 ### Recommendations:
 
+1. Emphasize the advantages of becoming a member, such as discounted rates per ride, priority booking, and a free month trial for new members. It is important to make these benefits clear and prominent in the marketing materials.
+2. Since ride lengths peak on weekends for casual riders, leveraging this insight by launching weekend-specific promotions to attract casual riders to become members could be very beneficial.
+3. Continuously gather feedback from both casual and member riders to understand their pain points and preferences. To use this feedback to improve the membership offering, address concerns, and enhance the overall user experience to attract more casual riders to convert to members.
 
 ## [Exploring 2021 Netflix Content Trends in Excel](https://github.com/POsebi/padeniran_portfolio/blob/main/2021_neflix_content_analysis.xlsx)
 
@@ -136,7 +139,7 @@ The [dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-s
 
 ### Overview of Analysis Results:
 
-![](neflix_image.png)
+![](netflix_image.png)
 
 ### Conclusion:
 Through this data analysis project, I was able to conclude that in 2021, Netflix added movies two-times more than TV shows to its platform. This was interesting to note, considering Netflix is well-known for its popular TV shows such as 'Stranger Things', 'Orange Is the New Black', etc. Also, the original release dates of Netflix's content as of 2021 spanned 96 years - earliest in 1925, showing the platform's content diversity for different age groups. A significant portion on Netflix's content were meant for mature audiences and, over half for persons older than 14 only. This is not surprising, considering the bulk of the platform's customers are expected to be old enough to work and earn, to pay the monthly subscriptions.
