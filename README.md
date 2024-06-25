@@ -1,6 +1,6 @@
 # Princess' Portfolio
 
-## [Analysis of Cyclistic Bike-Share Usage by Membership Type in R](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
+## [Analysis of Cyclistic Bike-Share Usage by Rider Type in R](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
 
 This is a case study I worked on in completion of my Googgle Data Analytics Professional Certicicate.
 
