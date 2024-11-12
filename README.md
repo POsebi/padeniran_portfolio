@@ -2,7 +2,7 @@
 
 ## [Analysis of Cyclistic Bike-Share Usage by Rider Type in R and Tableau](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
 
-This is a case study I worked on in completion of my Googgle Data Analytics Professional Certicicate.
+This is a case study I worked on in completion of my Google Data Analytics Professional Certificate.
 
 ### Specific goals include:
 
