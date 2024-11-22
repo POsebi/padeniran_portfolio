@@ -3,7 +3,7 @@
 ## [Prescriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/global_companies_financial_landscape.pbix)
 
 ### [Dashboard Link:](https://app.powerbi.com/groups/me/reports/4ae17a95-6e70-448f-b7c5-26aeb3acbe09/8a0cb228b6d4fd9a49d0?experience=power-bi)
-Please, reach out to me for access via email if needed - princessadeniran@gmail.com
+Please, reach out to me for access if needed via email - princessadeniran@gmail.com
 
 ### Questions I Want Answered:
 
