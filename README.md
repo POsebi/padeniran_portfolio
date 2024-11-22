@@ -1,6 +1,6 @@
 # Princess' Portfolio
 
-## [Presriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/Global Companies Financial Landscape.pbix)
+## [Presriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/global_companies_financial_landscape.pbix)
 
 ### [Dashboard Link:](https://app.powerbi.com/groups/me/reports/4ae17a95-6e70-448f-b7c5-26aeb3acbe09/8a0cb228b6d4fd9a49d0?experience=power-bi)
 Please, reach out to me for access via email if needed - princessadeniran@gmail.com
@@ -44,9 +44,11 @@ The [dataset](https://www.kaggle.com/datasets/patricklford/largest-companies-ana
 
 ### Insights:
 - Compared to market capitalization, revenue and earnings are low. This results in a high price-to-sale ratio and could mean many companies are over-valued. The average investor is spending £1.5 to genrate £1 in revenue. This looks bleak at first, however, it could also reflect general investor confidence in the growth potential of the companies. For short-term investors, high market capitalization while considering other metrics, may be good enough reason to invest.  As a long-term investor, it's best to look towards countries like Austria, Chile, Hungary where the average revenue trends above average market capitalization, and earnings are as high as 30% relative to market capitalization.
-- The United States leads in terms of companies performing better than average on all parameters, making it a good country to look into for both long-term and short-term investing. Countries such as India, Canada, Japan, Australia, Germany, United Kingdom, China, and France also follow behind in terms of consistency. However, we have countries like Sweden that may be good for short-term investments but not necessarily great for long-term investing. This is because while it has many companies represented in terms of market capitalization and revenue, it may not be the most profitable as it is missing from the leading countries when it comes to metrics like, earnings, p/e ratio and dividend yield. Alternatively, we see countries like Saudi Arabia that are primed mainly for long-term investments based on the metrics it is seen leading. ==See below image.== 
+- The United States leads in terms of companies performing better than average on all parameters, making it a good country to look into for both long-term and short-term investing. Countries such as India, Canada, Japan, Australia, Germany, United Kingdom, China, and France also follow behind in terms of consistency. However, we have countries like Sweden that may be good for short-term investments but not necessarily great for long-term investing. This is because while it has many companies represented in terms of market capitalization and revenue, it may not be the most profitable as it is missing from the leading countries when it comes to metrics like, earnings, p/e ratio and dividend yield. Alternatively, we see countries like Saudi Arabia that are primed mainly for long-term investments based on the metrics it is seen leading.
+
 ![](companies_leading.png)         
-- While observing average performance by country, we get a clearer view. In this case, the United States is nowhere to be found in terms of revenue, earnings, p/e ratio and dividend yield. Instead we have countries like Ireland and China dominating in terms of average market capitalization, countries like Hungary recording high revenue, earnings, and dividend yield while maintaing low p/e ratio, and countries like Kuwait having grossly over-valued companies. ==See below image.==
+- While observing average performance by country, we get a clearer view. In this case, the United States is nowhere to be found in terms of revenue, earnings, p/e ratio and dividend yield. Instead we have countries like Ireland and China dominating in terms of average market capitalization, countries like Hungary recording high revenue, earnings, and dividend yield while maintaing low p/e ratio, and countries like Kuwait having grossly over-valued companies.
+  
 ![](companies_top_10.png)
 
 ### Recommendations for Further Analysis:
