@@ -1,6 +1,60 @@
 # Princess' Portfolio
 
-## [Analysis of Cyclistic Bike-Share Usage by Rider Type in R and Tableau](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
+## [Presriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/Global Companies Financial Landscape.pbix)
+
+### [Dashboard Link:](https://app.powerbi.com/groups/me/reports/4ae17a95-6e70-448f-b7c5-26aeb3acbe09/8a0cb228b6d4fd9a49d0?experience=power-bi)
+Please, reach out to me for access via email if needed - princessadeniran@gmail.com
+
+### Questions I Want Answered:
+
+1. Countries to look out for when making overall investment decisions.
+2. Countries to look out for when making long-term vs short-term investment decisions.
+
+### Data Collection:
+
+The [dataset](https://www.kaggle.com/datasets/patricklford/largest-companies-analysis-worldwide/data) for this analysis was collected from open-source site, Kaggle, provided by Patrick L Ford [license](https://opendatacommons.org/licenses/dbcl/1-0/). It shows trailing twelve months capital market metrics of the companies listed as at the time it was generated.
+
+### Data Analysis Process:
+1. Loaded data into Power BI, cleaned data in Power Query e.g countries showing duplicate names (United States, USA).
+2. Performed a quick overview on my data using charts, cards, and measures to identify patterns and validate data.   
+   ```e.g.
+   ``` average mark.cap by country
+       AVERAGEX(
+             VALUES(Companies_ranked_by_Dividend_Yield[country]),
+             CALCULATE(AVERAGE(Companies_ranked_by_Market_Cap[marketcap])))```
+     
+3. Noticed some issues with the dataset, such as, companies throwing off average p/e ratio, revenue returning negatives.
+4. Addressed issues with dataset by taking out the outliers and transforming revenue column into absolute values.
+5. Created a measure table to perform necessary calculations in readiness for visualization.
+6. Created visuals to intepret data and generate insights, and summarasized them by pages.
+7. Page 1 - landing page and home tab.
+8. Page 2 - shows overview of totals and avergaes and how they compare.
+9. Page 3 - explores the number of company options available per country for an investor that would like to dversify.
+10. Page 4 - summarizes averages by country.
+11. Page 5 - correlation of other metrics to dividend yield.
+12. Page 6 -a quick user guide defining the variables used in analysis and to assist in navigating the dashboard.
+13. Edited mobile version of dashboard.
+14. Published dashboard to Power BI Service.
+
+### Overview of Analysis:
+
+![](companies_overview.png)
+
+9,909 companies and 78 countries were reviewed in total. Average market capitalization is £8.7bn and average revenue £5.7bn while average earnings is £0.7bn.
+
+### Insights:
+- Compared to market capitalization, revenue and earnings are low. This results in a high price-to-sale ratio and could mean many companies are over-valued. The average investor is spending £1.5 to genrate £1 in revenue. This looks bleak at first, however, it could also reflect general investor confidence in the growth potential of the companies. For short-term investors, high market capitalization while considering other metrics, may be good enough reason to invest.  As a long-term investor, it's best to look towards countries like Austria, Chile, Hungary where the average revenue trends above average market capitalization, and earnings are as high as 30% relative to market capitalization.
+- The United States leads in terms of companies performing better than average on all parameters, making it a good country to look into for both long-term and short-term investing. Countries such as India, Canada, Japan, Australia, Germany, United Kingdom, China, and France also follow behind in terms of consistency. However, we have countries like Sweden that may be good for short-term investments but not necessarily great for long-term investing. This is because while it has many companies represented in terms of market capitalization and revenue, it may not be the most profitable as it is missing from the leading countries when it comes to metrics like, earnings, p/e ratio and dividend yield. Alternatively, we see countries like Saudi Arabia that are primed mainly for long-term investments based on the metrics it is seen leading. ==See below image.== 
+![](companies_leading.png)         
+- While observing average performance by country, we get a clearer view. In this case, the United States is nowhere to be found in terms of revenue, earnings, p/e ratio and dividend yield. Instead we have countries like Ireland and China dominating in terms of average market capitalization, countries like Hungary recording high revenue, earnings, and dividend yield while maintaing low p/e ratio, and countries like Kuwait having grossly over-valued companies. ==See below image.==
+![](companies_top_10.png)
+
+### Recommendations for Further Analysis:
+
+1. Due to the overrepresentation of countries like the US, and underrepresentaion of countries like Nigeria in the dataset, this analysis could be biased. More data with better representation is needed.
+3. Data used is static. This analysis only serves as a guide on how to approach global capital market investments and should not be used for future investment decisions. It is recommended to seek professional financial advise before making significant investment decisions.
+
+## [Cyclistic Bike-Share Usage by Rider Type in R, Visualized on Tableau](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
 
 This is a case study I worked on in completion of my Google Data Analytics Professional Certificate.
 
