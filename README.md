@@ -40,21 +40,27 @@ The [dataset](https://www.kaggle.com/datasets/patricklford/largest-companies-ana
 
 ![](companies_overview.png)
 
-9,909 companies and 78 countries were reviewed in total. Average market capitalization is £8.7bn and average revenue £5.7bn while average earnings is £0.7bn.
+9,909 companies and 78 countries were reviewed in total. Average market capitalization is £8.7bn and average revenue £5.7bn while average earnings is £0.7bn. In relation to market capitalization, revenue and earnings are low. This results in a high price-to-sale ratio and could mean many companies are over-valued. The average investor is spending £1.5 to genrate £1 in revenue. This looks bleak at first, however, it could also reflect general investor confidence in the growth potential of the companies. For short-term investors, high market capitalization while considering other metrics, may be good enough reason to invest.  As a long-term investor, it's best to look towards countries like Austria, Chile, Hungary where the average revenue trends above average market capitalization, and earnings are as high as 30% relative to market capitalization.
 
 ### Insights:
-- Compared to market capitalization, revenue and earnings are low. This results in a high price-to-sale ratio and could mean many companies are over-valued. The average investor is spending £1.5 to genrate £1 in revenue. This looks bleak at first, however, it could also reflect general investor confidence in the growth potential of the companies. For short-term investors, high market capitalization while considering other metrics, may be good enough reason to invest.  As a long-term investor, it's best to look towards countries like Austria, Chile, Hungary where the average revenue trends above average market capitalization, and earnings are as high as 30% relative to market capitalization.
-- The United States leads in terms of companies performing better than average on all parameters, making it a good country to look into for both long-term and short-term investing. Countries such as India, Canada, Japan, Australia, Germany, United Kingdom, China, and France also follow behind in terms of consistency. However, we have countries like Sweden that may be good for short-term investments but not necessarily great for long-term investing. This is because while it has many companies represented in terms of market capitalization and revenue, it may not be the most profitable as it is missing from the leading countries when it comes to metrics like, earnings, p/e ratio and dividend yield. Alternatively, we see countries like Saudi Arabia that are primed mainly for long-term investments based on the metrics it is seen leading.
 
 ![](companies_leading.png)         
-- While observing average performance by country, we get a clearer view. In this case, the United States is nowhere to be found in terms of revenue, earnings, p/e ratio and dividend yield. Instead we have countries like Ireland and China dominating in terms of average market capitalization, countries like Hungary recording high revenue, earnings, and dividend yield while maintaing low p/e ratio, and countries like Kuwait having grossly over-valued companies.
+- The United States leads in terms of companies performing better than average on all parameters, making it a good country to look into for both long-term and short-term investing. Countries such as India, Canada, Japan, Australia, Germany, United Kingdom, China, and France also follow behind in terms of consistency. However, we have countries like Sweden that may be good for short-term investments but not necessarily great for long-term investing. This is because while it has many companies represented in terms of market capitalization and revenue, it may not be the most profitable as it is missing from the leading countries when it comes to metrics like, earnings, p/e ratio and dividend yield. Alternatively, we see countries like Saudi Arabia that are primed mainly for long-term investments based on the metrics it is seen leading.
   
 ![](companies_top_10.png)
+- While observing average performance by country, we get a clearer view. In this case, the United States is nowhere to be found in terms of revenue, earnings, p/e ratio and dividend yield. Instead we have countries like Ireland and China dominating in terms of average market capitalization, countries like Hungary recording high revenue, earnings, and dividend yield while maintaing low p/e ratio, and countries like Kuwait having grossly over-valued companies.
+
+![](companies_correlation.png)
+- On a deeper analysis, ranking Top 100 companies acoss the world by market capitalization, other metrics were evaluated based on their relationship to dividend yield. It can be oberseved that all metrics negatively correlate to dividend yield, with strongest correlation being earnings and least correlation being P.E. ratio. To a long-term investor that is interested in dividend yield, it would be advisable to pay attention to the earnings of the companies being considered. Brazil also appears well-represented among countries that return very high dividends to their shareholders.
+
+### Conclusion
+
+There are many factors to consider when making investment decisions. The ideal spot for a long-term investor may differ from a short-term investor's. As a precaution, it is not only recommended to diversify across industries but also across countries to mitigate against the risk of a market crash. It's on rare occasions that you see a global capital market crisis like in 2008 or post-covid.  
 
 ### Recommendations for Further Analysis:
 
 1. Due to the overrepresentation of countries like the US, and underrepresentaion of countries like Nigeria in the dataset, this analysis could be biased. More data with better representation is needed.
-3. Data used is static. This analysis only serves as a guide on how to approach global capital market investments and should not be used for future investment decisions. It is recommended to seek professional financial advise before making significant investment decisions.
+2. Data used is static. This analysis only serves as a guide on how to approach global capital market investments and should not be used for future investment decisions. It is recommended to seek professional financial advice before making significant investment decisions.
 
 ## [Cyclistic Bike-Share Usage by Rider Type in R, Visualized on Tableau](https://github.com/POsebi/padeniran_portfolio/blob/main/cyclistic2.R)
 
