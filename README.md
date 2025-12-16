@@ -1,6 +1,6 @@
 # Princess' Portfolio
 
-## [Geospatial Analytics Web App (AI-assisted build)]
+## [Geospatial Analytics Web App (AI-assisted build)](#)
 
 I designed and built a geospatial analytics web application from scratch to help small businesses evaluate potential locations using data-driven insights. The app supports location search, interactive mapping, traffic patterns, demographics, competition signals, and side-by-side comparison to make trade-offs easier for non-technical users.
 
