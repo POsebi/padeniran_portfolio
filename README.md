@@ -2,9 +2,9 @@
 
 ## [Geospatial Analytics Web App (AI-assisted build)](#)
 
-I designed and built a geospatial analytics web application from scratch to help small businesses evaluate potential locations using data-driven insights. The app supports location search, interactive mapping, traffic patterns, demographics, competition signals, and side-by-side comparison to make trade-offs easier for non-technical users.
+I designed and built a geospatial analytics web application from scratch to help small businesses evaluate potential locations using data-driven insights. The app combines interactive maps, traffic patterns, demographics, competition, and cost indicators, with an AI-driven recommendations layer that summarizes key strengths, risks, and strategic considerations in clear, plain language. The goal is to help non-technical users move from analysis to confident decisions quickly.
 
-Built with AI-assisted tooling [v0.app](https://v0.app/) by Vercel, to speed up UI design and iteration from concept to working demo.
+Built with AI-assisted tool [v0.app](https://v0.app/) by Vercel, to speed up UI design and iteration from concept to working demo.
 
 ### Screenshots:
 
@@ -20,6 +20,8 @@ Built with AI-assisted tooling [v0.app](https://v0.app/) by Vercel, to speed up 
 **Traffic analytics**
 ![Traffic analytics](Traffic.png)
 
+**AI recommendations**
+![AI recommendations](AI.png)
 
 ## [Prescriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/global_companies_financial_landscape.pbix)
 
