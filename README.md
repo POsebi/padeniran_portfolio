@@ -1,5 +1,26 @@
 # Princess' Portfolio
 
+## Geospatial Analytics Web App (AI-assisted build)
+
+I designed and built a geospatial analytics web application from scratch to help small businesses evaluate potential locations using data-driven insights. The app supports location search, interactive mapping, traffic patterns, demographics, competition signals, and side-by-side comparison to make trade-offs easier for non-technical users.
+
+Built with AI-assisted tooling (v0.app by Vercel) to speed up UI design and iteration from concept to working demo.
+
+**Screenshots:**
+
+**Landing page**
+![Landing page](Landing.png)
+
+**Dashboard overview**
+![Dashboard](Dashboard.png)
+
+**Interactive map**
+![Interactive map](Map.png)
+
+**Traffic analytics**
+![Traffic analytics](Traffic.png)
+
+
 ## [Prescriptive Data Analysis on Global Companies Financial Landscape using Power BI](https://github.com/POsebi/padeniran_portfolio/blob/main/global_companies_financial_landscape.pbix)
 
 ### [Dashboard Link:](https://app.powerbi.com/groups/me/reports/4ae17a95-6e70-448f-b7c5-26aeb3acbe09/8a0cb228b6d4fd9a49d0?experience=power-bi)
