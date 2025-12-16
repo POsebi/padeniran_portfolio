@@ -6,7 +6,7 @@ I designed and built a geospatial analytics web application from scratch to help
 
 Built with AI-assisted tooling [v0.app](https://v0.app/) by Vercel, to speed up UI design and iteration from concept to working demo.
 
-###Screenshots:
+### Screenshots:
 
 **Landing page**
 ![Landing page](Landing.png)
