@@ -9,7 +9,7 @@ Built with AI-assisted tooling (v0.app by Vercel) to speed up UI design and iter
 **Screenshots:**
 
 **Landing page**
-![Landing page](Landing Page.png)
+![Landing page](Landing.png)
 
 **Dashboard overview**
 ![Dashboard](Dashboard.png)
